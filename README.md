@@ -2,12 +2,6 @@
 
 A simple News application built with Flutter. The news data fetch using a Free REST API provided by NewsAPI.org.
 
-## How to run this project
-
-Clone this repository using following command.
-
-`git clone https://github.com/Dilshan97/Flutter-news-app`
-
 Then navigate to the project & install the libraries using following command.
 
 `flutter pub get`
